@@ -4,3 +4,7 @@ chromadb
 sentence-transformers
 python-dotenv
 pydantic
+langchain-core
+langchain-text-splitters
+langchain-community
+langchain-openai
